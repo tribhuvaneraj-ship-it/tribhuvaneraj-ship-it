@@ -34,7 +34,7 @@ University: Mumbai University
 CGPA: 7.5/10
 Role: Full Stack Developer
 Experience:
-   • Backend AI Engineering Intern @ FlyRank AI
+   • Frontend AI Engineering Intern @ FlyRank AI
    • Open Source Contributor @ Social Summer of Code
 Passion:
    • Full Stack Development
@@ -103,7 +103,7 @@ Cloudinary • Razorpay • Axios
 
 # 💼 Experience
 
-## 🚀 Backend AI Engineering Intern
+## 🚀 Frontend AI Engineering Intern
 ### FlyRank AI (Remote)
 
 **July 2026 - Present**
