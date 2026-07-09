@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Raj C. Tribhuvane
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Raj%20C.%20Tribhuvane&fontSize=42&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Navigating%20the%20Full%20Stack%20Galaxy&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Backend+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%9B%B0%EF%B8%8F+Backend+Developer;%F0%9F%91%BD+AI+Enthusiast;%F0%9F%8C%8C+Open+Source+Contributor;%F0%9F%8C%A0+Building+Scalable+Web+Applications" />
 
 <p>
   <a href="https://linkedin.com/in/raj-tribhuvane-b58259375">
@@ -19,37 +19,37 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=tribhuvaneraj-ship-it&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=tribhuvaneraj-ship-it&style=for-the-badge&color=1a1a2e&label=MISSION+VISITORS"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 🛰️ Mission Briefing
 
 ```yaml
-Name: Raj C. Tribhuvane
-Education: B.E. Computer Science Engineering (2024-2028)
-University: Mumbai University
-CGPA: 7.5/10
+Callsign: Raj C. Tribhuvane
+Training: B.E. Computer Science Engineering (2024-2028)
+Academy: Mumbai University
+Flight Score (CGPA): 7.5/10
 Role: Full Stack Developer
-Experience:
+Mission Log:
    • Frontend AI Engineering Intern @ FlyRank AI
    • Open Source Contributor @ Social Summer of Code
-Passion:
+Orbit of Interest:
    • Full Stack Development
    • Artificial Intelligence
    • Backend Engineering
    • Open Source
 ```
 
-💻 I love building scalable web applications, AI-powered platforms, disaster management systems, real-time chat apps, e-commerce platforms, and backend services.
+🌌 I love building scalable web applications, AI-powered platforms, disaster management systems, real-time chat apps, e-commerce platforms, and backend services — launching ideas from concept into orbit.
 
 ---
 
-# ⚡ Tech Stack
+# ⭐ Tech Constellation
 
-## 👨‍💻 Programming Languages
+## 👨‍🚀 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,mysql"/>
@@ -57,7 +57,7 @@ Passion:
 
 ---
 
-## 🎨 Frontend
+## 🌠 Frontend — *The Visible Surface*
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,threejs"/>
@@ -69,7 +69,7 @@ Passion:
 
 ---
 
-## ⚙ Backend
+## 🚀 Backend — *Mission Control*
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask"/>
@@ -81,7 +81,7 @@ Passion:
 
 ---
 
-## 🗄 Database
+## 🪐 Database — *Data Storage Bay*
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite"/>
@@ -91,7 +91,7 @@ MongoDB Atlas
 
 ---
 
-## ☁ Cloud & Tools
+## ☁️ Cloud & Tools — *Ground Support*
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,firebase"/>
@@ -101,7 +101,7 @@ Cloudinary • Razorpay • Axios
 
 ---
 
-# 💼 Experience
+# 🧑‍🚀 Flight Experience
 
 ## 🚀 Frontend AI Engineering Intern
 ### FlyRank AI (Remote)
@@ -129,7 +129,7 @@ Cloudinary • Razorpay • Axios
 
 ---
 
-# 🌟 Featured Projects
+# 🌌 Featured Missions
 
 ---
 
@@ -137,7 +137,7 @@ Cloudinary • Razorpay • Axios
 
 ### AI Powered Disaster Management Platform
 
-✨ Features
+✨ Payload
 
 - Emergency SOS
 - Disaster Reporting
@@ -159,7 +159,7 @@ Cloudinary • Razorpay • Axios
 
 ---
 
-## 🛰 Nakshatra-X
+## 🛰️ Nakshatra-X
 
 ### Satellite Mission Control Dashboard
 
@@ -178,13 +178,13 @@ React • Three.js • Express • MongoDB • Firebase
 
 ---
 
-## ☁ AstraClear AI
+## ☁️ AstraClear AI
 
 ### AI Satellite Image Enhancement
 
 🔗 https://astraclear-1969.web.app
 
-Features
+Payload
 
 - AI Cloud Removal
 - Satellite Analytics
@@ -199,7 +199,7 @@ Features
 
 🔗 https://rizzchat-2007.web.app/
 
-Features
+Payload
 
 - Authentication
 - Media Sharing
@@ -213,7 +213,7 @@ Features
 
 ### Full Stack E-Commerce Website
 
-Features
+Payload
 
 - Authentication
 - Shopping Cart
@@ -243,7 +243,7 @@ Supports
 
 ---
 
-# 📜 Certifications
+# 🏅 Certifications — *Launch Clearances*
 
 - 🏆 Commonwealth Bank Software Engineering Job Simulation
 - 🏆 Walmart USA Advanced Software Engineering Job Simulation
@@ -255,7 +255,7 @@ Supports
 
 ---
 
-# 📈 GitHub Analytics
+# 📡 Telemetry & GitHub Analytics
 
 <div align="center">
 
@@ -269,7 +269,7 @@ Supports
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Comet Trail
 
 <p align="center">
 
@@ -279,7 +279,7 @@ Supports
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Mission Trophies
 
 <p align="center">
 
@@ -289,7 +289,7 @@ Supports
 
 ---
 
-# 📊 Activity Graph
+# 📊 Orbit Activity Graph
 
 <p align="center">
 
@@ -299,13 +299,13 @@ Supports
 
 ---
 
-# 💡 Quote of the Day
+# 💫 Transmission of the Day
 
 > **"First, solve the problem. Then, write the code."** – John Johnson
 
 ---
 
-# 🤝 Let's Connect
+# 📻 Open a Channel
 
 <p align="center">
 
@@ -333,6 +333,8 @@ Supports
 
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Happy+Coding!;Let's+Build+Something+Awesome!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+the+space+station!;Happy+Coding+among+the+stars!;Let's+Build+Something+Astronomical!"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer"/>
 
 </div>
